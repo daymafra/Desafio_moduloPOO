@@ -1,0 +1,16 @@
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.exe
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.deps.json
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.runtimeconfig.json
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.runtimeconfig.dev.json
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.dll
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\bin\Debug\net5.0\DesafioPOO.pdb
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.dll
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\refint\DesafioPOO.dll
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.pdb
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Serena\Downloads\EduSync\Turma Lítio\Exercicios_Orientacao_a_Objetos\Desafio POO\DesafioPOO\obj\Debug\net5.0\ref\DesafioPOO.dll
