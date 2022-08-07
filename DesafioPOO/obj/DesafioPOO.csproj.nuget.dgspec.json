@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\DesafioPOO\\DesafioPOO.csproj": {}
+    "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\Desafio_moduloPOO\\DesafioPOO\\DesafioPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\DesafioPOO\\DesafioPOO.csproj": {
+    "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\Desafio_moduloPOO\\DesafioPOO\\DesafioPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\DesafioPOO\\DesafioPOO.csproj",
+        "projectUniqueName": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\Desafio_moduloPOO\\DesafioPOO\\DesafioPOO.csproj",
         "projectName": "DesafioPOO",
-        "projectPath": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\DesafioPOO\\DesafioPOO.csproj",
+        "projectPath": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\Desafio_moduloPOO\\DesafioPOO\\DesafioPOO.csproj",
         "packagesPath": "C:\\Users\\Serena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\DesafioPOO\\obj\\",
+        "outputPath": "C:\\Users\\Serena\\Downloads\\EduSync\\Turma Lítio\\Exercicios_Orientacao_a_Objetos\\Desafio POO\\Desafio_moduloPOO\\DesafioPOO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serena\\AppData\\Roaming\\NuGet\\NuGet.Config",

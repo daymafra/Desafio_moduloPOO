@@ -8,10 +8,12 @@ namespace DesafioPOO
 {
     public class Veiculo
     {
+        /*Atributos do veículo já definidos*/
         public string Placa = "JLK56";
         public string Cor = "Prata";
         public string Modelo = "Uno";        
 
+        /*Método que retorna informações sobre o veículo*/
         public void InformarVeiculo()
         {
             Console.WriteLine("\nVeja atentamente os dados do veículo!");
